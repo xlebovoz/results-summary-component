@@ -1,0 +1,22 @@
+body {
+    font-family: 'Hanken Grotesk', sans-serif;
+    background-color: hsl(221, 100%, 96%);
+}
+
+
+#summary {
+    background-color: hsl(0, 0%, 100%);
+}
+
+#Reaction_d {
+    background-color: hsl(0, 100%, 67%);
+}
+#Memory_d {
+    background-color: hsl(39, 100%, 56%);
+}
+#Verbal_d {
+    background-color: hsl(166, 100%, 37%);
+}
+#Visual_d {
+    background-color: hsl(234, 85%, 45%);
+}
